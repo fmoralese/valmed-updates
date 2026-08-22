@@ -1,0 +1,18 @@
+{
+  "latest_version": "1.1.0",
+  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.1.0/VALMED_App.exe",
+  "release_date": "2026-08-21",
+  "changelog": "- Nueva función: Desmarcar y excluir bonos RTE en la ventana Ver Bonos\n- Recálculo automático de descuentos y saldos de licencias\n- Botón de actualizaciones directas en cabecera principal",
+  "databases": {
+    "EXP_DATABASE.db": {
+      "version": "1.0.0",
+      "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.0.0/EXP_DATABASE.db",
+      "description": "Base de datos histórica acumulada de pagos de licencias"
+    },
+    "situlic_NORMALIZADO.db": {
+      "version": "1.0.0",
+      "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.0.0/situlic_NORMALIZADO.db",
+      "description": "Base de datos normalizada de situaciones de licencias médicas"
+    }
+  }
+}
