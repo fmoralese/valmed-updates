@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.0",
-  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.1.0/VALMED_App.exe",
-  "release_date": "2026-08-21",
-  "changelog": "- Nueva función: Desmarcar y excluir bonos RTE en la ventana Ver Bonos\n- Recálculo automático de descuentos y saldos de licencias\n- Botón de actualizaciones directas en cabecera principal",
+  "latest_version": "1.2.0",
+  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.0/VALMED_App.exe",
+  "release_date": "2026-09-04",
+  "changelog": "- Módulo de Registro de Licencias Médicas Eliminadas con observaciones detalladas\n- Función para recuperar licencias eliminadas y restaurar sus bonos RTE desglosados\n- Optimizaciones en la gestión del historial de procesos",
   "databases": {
     "EXP_DATABASE.db": {
       "version": "1.0.0",
