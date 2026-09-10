@@ -1,18 +1,18 @@
 {
-  "latest_version": "1.2.5",
-  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.5/VALMED_App.exe",
+  "latest_version": "1.2.6",
+  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.6/VALMED_App.exe",
   "release_date": "2026-09-10",
-  "changelog": "- Correcciones y mejoras de rendimiento.",
+  "changelog": "- Correcci\u00f3n de librer\u00edas C++ y arranque optimizado.",
   "databases": {
     "EXP_DATABASE.db": {
       "version": "1.0.0",
       "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.0.0/EXP_DATABASE.db",
-      "description": "Base de datos histórica acumulada de pagos de licencias"
+      "description": "Base de datos hist\u00f3rica acumulada de pagos de licencias"
     },
     "situlic_NORMALIZADO.db": {
       "version": "1.0.0",
       "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.0.0/situlic_NORMALIZADO.db",
-      "description": "Base de datos normalizada de situaciones de licencias médicas"
+      "description": "Base de datos normalizada de situaciones de licencias m\u00e9dicas"
     }
   }
 }
