@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.2.2",
-  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.2/VALMED_App.exe",
+  "latest_version": "1.2.3",
+  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.3/VALMED_App.exe",
   "release_date": "2026-09-10",
   "changelog": "- Correcciones y mejoras de rendimiento.",
   "databases": {
