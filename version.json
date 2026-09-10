@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.2.0",
-  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.0/VALMED_App.exe",
-  "release_date": "2026-09-04",
-  "changelog": "- Módulo de Registro de Licencias Médicas Eliminadas con observaciones detalladas\n- Función para recuperar licencias eliminadas y restaurar sus bonos RTE desglosados\n- Optimizaciones en la gestión del historial de procesos",
+  "latest_version": "1.2.1",
+  "download_url": "https://github.com/fmoralese/valmed-updates/releases/download/v1.2.1/VALMED_App.exe",
+  "release_date": "2026-09-10",
+  "changelog": "- Correcciones y mejoras de rendimiento.",
   "databases": {
     "EXP_DATABASE.db": {
       "version": "1.0.0",
